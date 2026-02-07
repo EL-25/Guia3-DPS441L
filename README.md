@@ -6,7 +6,7 @@ Antes de comenzar, asegúrate de tener instalado **Node.js** en tu sistema. Pued
 
 ## Clonar el Repositorio
 1. Abre tu terminal y navega hasta la ubicación donde deseas clonar el repositorio.
-2. Ejecuta el siguiente comando para clonar el repositorio:  git clone https://github.com/EL/25/Guia3/DPS441L.git
+2. Ejecuta el siguiente comando para clonar el repositorio:  git clone https://github.com/EL-25/Guia3-DPS441L.git
 
 3. Ingresa al directorio del proyecto usando el comando: cd pruebas-react
 
